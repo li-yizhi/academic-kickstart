@@ -25,7 +25,7 @@ abstract = "We introduce ABC-Dataset, a collection of one million Computer-Aided
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "abc-dataset.png"
+image_preview = "Radiation_robot.png"
 
 # Is this a selected publication? (true/false)
 selected = true
