@@ -19,33 +19,33 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "教育部学位与研究生教育发展中心"
-  organization_url = "https://cpipc.chinadegrees.cn/"
-  title = "研究生能源装备创新设计大赛"
+  organization = "jyb"
+  organization_url = "https://cpipc.chinadegrees.cn"
+  title = "yjs"
   url = ""
   certificate_url = ""
   date_start = "2019-6-15"
   date_end = ""
-  description = "参赛作品：核电装备辐射泄漏在线辨识诊断移动机器人 获校赛三等奖"
+  description = "sdj"
 
 [[item]]
-  organization = "教育部学位与研究生教育发展中心"
-  organization_url = "https://cpipc.chinadegrees.cn/"
-  title = "研究生能源装备创新设计大赛"
+  organization = "jyb"
+  organization_url = "https://cpipc.chinadegrees.cn"
+  title = "yjs"
   url = ""
   certificate_url = ""
   date_start = "2019-6-15"
   date_end = ""
-  description = "参赛作品：核电装备辐射泄漏在线辨识诊断移动机器人 获校赛三等奖"
+  description = "sdj"
   
 [[item]]
-  organization = "北京菁华锐航开发"
+  organization = "bj"
   organization_url = "https://www.catics.org/competition/index.html"
-  title = "第九届CATICS网络3D建模大赛"
+  title = "djj"
   url = ""
   certificate_url = ""
   date_start = "2015-06-07"
   date_end = ""
-  description = "获个人优胜一等奖（3%），团队二等奖（10%）"
+  description = "ydj"
 
 +++
