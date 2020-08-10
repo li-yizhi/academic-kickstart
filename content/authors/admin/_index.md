@@ -2,6 +2,9 @@
 # Display name
 title: li, Huimin     李慧敏
 
+# Display name
+subtitle: li, Huimin     李慧敏
+
 # Username (this should match the folder name)
 authors:
 - admin
