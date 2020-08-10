@@ -1,10 +1,11 @@
 +++
-title = "ABC: A Big CAD Model Dataset For Geometric Deep Learning "
-date = 2019-02-15T20:04:23-04:00
+title = "核电装备辐射泄漏在线辨识诊断移动机器人 "
+date_start = "2019-01-02"
+date_end = "2020-12-20"
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Sebastian Koch", "Albert Matveev", "**Zhongshi Jiang**", "Francis Williams", "Alexey Artemov", "Evgeny Burnaev", "Marc Alexa", "Denis Zorin", "Daniele Panozzo"]
+authors = ["辐射点云探测数据处理，移动机器人精准定位及导航算法研究"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
@@ -14,14 +15,13 @@ authors = ["Sebastian Koch", "Albert Matveev", "**Zhongshi Jiang**", "Francis Wi
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE Conference on Computer Vision and Pattern Recognition"
-publication_short = "*IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**)"
+publication = "国家自然科学基金面上基金项目"
 
 # Abstract and optional shortened version.
-abstract = "We introduce ABC-Dataset, a collection of one million Computer-Aided Design (CAD) models for research of geometric deep learning methods and applications. Each model is a collection of explicitly parametrized curves and surfaces, providing ground truth for differential quantities, patch segmentation, geometric feature detection, and shape reconstruction. Sampling the parametric descriptions of surfaces and curves allows generating data in different formats and resolutions, enabling fair comparisons for a wide range of geometric learning algorithms. As a use case for our dataset, we perform a large-scale benchmark for estimation of surface normals, comparing existing data driven methods and evaluating their performance against both the ground truth and traditional normal estimation methods. "
+abstract = "本项目拟利用机器人探测技术对核辐射放射源获取三维重建模型。具体方式为对由移动康普顿成像机器人生成的散射信号进行反演重构，在成像区域进行三维体素分割建模，通过三维锥面空间概率分布特征构建点云隶属度函数。利用康普顿成像原理，移动机器人获取多观测点的散射数据，再基于欧式变换的交比不变性，研究泊松分布在辐射源三维模型中的适应性条件，把全局三维形状和局部形状信息进行特征比对和互联集成，实现对复杂环境的局部分割可视化处理。研究移动机器人采集路径，分析辐射源三维建模精度的影响因素，建立多辐射源强度、剂量等参数和移动机器人位姿、路径之间的映射关系，揭示两者数学关系；通过辐射源三维点云图的切片设计，提出点云边界阈值函数，得到三维重建边界曲面，实现辐射源三维特征辨识与描述。"
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -41,11 +41,11 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/1812.06216"
-url_preprint = "https://arxiv.org/abs/1812.06216"
+url_pdf = ""
+url_preprint = ""
 url_code = ""
-url_dataset = "https://archive.nyu.edu/handle/2451/43778"
-url_project = "https://deep-geometry.github.io/abc-dataset/"
+url_dataset = ""
+url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
