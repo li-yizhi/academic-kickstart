@@ -12,7 +12,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postgraduates<br>Mechanical Design Laboratory
+role: Master Candidate<br>Mechanical Design Laboratory
 
 # Organizations/Affiliations
 organizations:
