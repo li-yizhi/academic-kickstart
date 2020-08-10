@@ -7,8 +7,8 @@ weight = 120  # Order that this section will appear.
 
 title = "吾日三省吾身"
 subtitle = 
-"到学校来做什么？"
-"将来毕业后做什么样的人？"
+"到学校来做什么？",
+"将来毕业后做什么样的人？",
 "今天有过的开心吗？"
 
 [content]
