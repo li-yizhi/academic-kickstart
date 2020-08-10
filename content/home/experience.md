@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   company = "浙江大学"
   company_url = ""
   location = "Hangzhou"
-  date_start = "2019-02"
-  date_end = "2019-06"
+  date_start = "2019-02-22"
+  date_end = "2019-06-17"
   description = """机械设计（甲）Ⅰ课程助教，负责作业批改、课程答疑和习题课设计讲解等工作"""
 
 +++
