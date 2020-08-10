@@ -1,7 +1,6 @@
 ---
 # Display name
-name: li, Huimin
-title: 李慧敏
+title: li, Huimin/n 李慧敏
 
 
 # Username (this should match the folder name)
@@ -12,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Master Candidate<br>Mechanical Design Laboratory
+role: Master Degree Candidate<br>Mechanical Design Laboratory
 
 # Organizations/Affiliations
 organizations:
