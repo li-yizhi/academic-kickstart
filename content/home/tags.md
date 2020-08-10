@@ -5,8 +5,11 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 120  # Order that this section will appear.
 
-title = "Popular Topics"
-subtitle = ""
+title = "吾日三省吾身"
+subtitle = 
+"到学校来做什么？"
+"将来毕业后做什么样的人？"
+"今天有过的开心吗？"
 
 [content]
   # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
