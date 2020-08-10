@@ -14,7 +14,7 @@ baseurl = "https://www.huiminli-zju.top/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "38 Zheda Road (Zhejiang University), Room 115, Hangzhou, 310027"
+copyright = "38 Zheda Road (Zhejiang University), Room 115, Hangzhou, 310027&copy; 2020 Huimin Li"
 
 ############################
 ## Advanced options below ##
