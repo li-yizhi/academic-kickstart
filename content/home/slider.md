@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Hello"
-  content = "I am center aligned :smile:"
+  content = "Welcome to My Life :smile:"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -29,14 +29,14 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Get Academic"
-  cta_url = "https://sourcethemes.com/academic/"
-  cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  cta_label = "Learn More :badminton:"
+  cta_url = "#about"
+
+
 
 [[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
+  title = "吾日三省吾身"
+  content = "到学校来做什么？<br>毕业后要做什么样的人？<br>今天有过的开心吗？"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
@@ -44,8 +44,8 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
+  title = "remember who you are"
+  content = "you must take your place in the circle of life"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
