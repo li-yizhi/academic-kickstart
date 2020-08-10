@@ -1,6 +1,7 @@
 ---
 # Display name
-title: li, Huimin&emsp;李慧敏
+title: li, Huimin  
+李慧敏
 
 
 # Username (this should match the folder name)
