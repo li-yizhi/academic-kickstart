@@ -25,7 +25,7 @@ abstract = "本发明公开了一种基于半峰值概率密度分布的三维�
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "reconstruction.png"
+image_preview = "finish/reconstruction.png"
 
 # Is this a selected publication? (true/false)
 selected = true
