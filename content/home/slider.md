@@ -17,7 +17,7 @@ height = "750px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Hello</p></p></p>"
-  content = "Welcome to My Life :woman_technologist:</p>.</p>.</p>.</p>"
+  content = "Welcome to My Life! </p> :woman_technologist:</p>.</p>.</p>"
   align = "center"  # Choose `center`, `left`, or `right`.
   justify-content = "center"
 
@@ -37,8 +37,8 @@ height = "750px"
 
 
 [[item]]
-  title = "吾日三省吾身——"
-  content = "到学校来做什么？毕业后要做什么样的人？今天有过的充实吗？"
+  title = "吾日三省吾身 —— "
+  content = "到学校来学什么？<br>毕业后要做什么样的人？<br>今天有过的充实吗？"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
