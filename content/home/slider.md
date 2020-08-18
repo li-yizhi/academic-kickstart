@@ -17,7 +17,7 @@ height = "750px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Hello"
-  content = "Welcome to My Life :smile:"
+  content = "Welcome to My Life :woman_technologist:"
   align = "center"  # Choose `center`, `left`, or `right`.
   justify-content = "center"
 
