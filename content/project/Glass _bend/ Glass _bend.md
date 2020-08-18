@@ -1,14 +1,19 @@
 +++
-title = "PTM-X"
-date = 2019-03-24T00:22:40+08:00
+title = "3D玻璃热弯机样机研发 "
+date_start = "2017-01-02"
+date_end = "2017-06-20"
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["结构设计","非标自动化"]
 
 # Project summary to display on homepage.
-summary = "PTM Cross-talk Prediction"
+summary = "负责部分：
+内部工位流程规划，外部结构逆向工程分析及建模，绘制加工图纸，与工厂协商修改设计加工问题，参与装配整机。
+项目描述：
+●成功设计并加工出一种3D玻璃钢化膜热弯加工样机；
+●该样机实现同时加工15片钢化玻璃膜；"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -37,10 +42,9 @@ url_poster = ""
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "Radiation_robot.png"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
-
 +++
