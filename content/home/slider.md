@@ -16,16 +16,16 @@ height = "750px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Hello</p></p>"
-  content = "Welcome to My Life :woman_technologist:</p></p>"
+  title = "Hello</p></p></p>"
+  content = "Welcome to My Life :woman_technologist:</p></p></p></p>"
   align = "center"  # Choose `center`, `left`, or `right`.
   justify-content = "center"
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/team3.jpg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_img = "headers/title.png"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -51,6 +51,6 @@ height = "750px"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "headers/team2.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "headers/team3.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
