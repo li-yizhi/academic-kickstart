@@ -9,11 +9,7 @@ draft = false
 tags = ["结构设计","非标自动化"]
 
 # Project summary to display on homepage.
-summary = "负责部分：
-内部工位流程规划，外部结构逆向工程分析及建模，绘制加工图纸，与工厂协商修改设计加工问题，参与装配整机。
-项目描述：
-●成功设计并加工出一种3D玻璃钢化膜热弯加工样机；
-●该样机实现同时加工15片钢化玻璃膜；"
+summary = "负责部分：内部工位流程规划，外部结构逆向工程分析及建模，绘制加工图纸，与工厂协商修改设计加工问题，参与装配整机。项目描述：●成功设计并加工出一种3D玻璃钢化膜热弯加工样机；●该样机实现同时加工15片钢化玻璃膜；"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
