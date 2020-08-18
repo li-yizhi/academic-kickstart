@@ -38,7 +38,7 @@ height = "750px"
 
 [[item]]
   title = "吾日三省吾身"
-  content = "到学校来做什么？毕业后要做什么样的人？今天有过的开心吗？"
+  content = "到学校来做什么？</p>毕业后要做什么样的人？</p>今天有过的开心吗？"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
