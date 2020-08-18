@@ -11,7 +11,7 @@ interval = false
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "700px"
+height = "800px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -19,6 +19,7 @@ height = "700px"
   title = "Hello"
   content = "Welcome to My Life :smile:"
   align = "center"  # Choose `center`, `left`, or `right`.
+  justify-content = "center"
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
