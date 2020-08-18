@@ -47,7 +47,7 @@ height = "750px"
   
 [[item]]
   title = "remember who you are"
-  content = "you must take your place in the circle of life"
+  content = "you must take your place in the circle of life</p>.</p>.</p>/*朋友们的超高颜值暂不开放"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
