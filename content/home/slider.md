@@ -24,7 +24,7 @@ height = "750px"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/title.png"  # Image path relative to your `static/media/` folder.
+  overlay_img = "headers/team3.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -38,11 +38,11 @@ height = "750px"
 
 [[item]]
   title = "吾日三省吾身"
-  content = "到学校来做什么？毕业后要做什么样的人？今天有开心吗？"
+  content = "到学校来做什么？毕业后要做什么样的人？今天有过的开心吗？"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/media/` folder.
+  overlay_img = "headers/title.png"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -51,6 +51,6 @@ height = "750px"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/media/` folder.
+  overlay_img = "headers/team2.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
