@@ -38,7 +38,7 @@ height = "750px"
 
 [[item]]
   title = "吾日三省吾身 —— "
-  content = "到学校来学什么？<br>毕业后要做什么样的人？<br>今天有过的开心充实吗？</p>.</p>.</p>.</p>.</p>.</p>.</p>.</p>/*没做到的话请务必记得明天一定鸭(ง •_•)ง"
+  content = "到学校来学什么？<br>毕业后要做什么样的人？<br>今天有过的开心充实吗？</p>.</p>.</p>.</p>.</p>.</p>.</p>.</p>/*要是。。。没做到的话。。。请务必记得明天一定鸭(ง •_•)ง"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
@@ -47,7 +47,7 @@ height = "750px"
   
 [[item]]
   title = "remember who you are"
-  content = "you must take your place in the circle of life</p>.</p>.</p>.</p>/.</p>/.</p>.</p>.</p>.</p>/*朋友们的超高颜值暂不开放"
+  content = "you must take your place in the circle of life</p>.</p>.</p>.</p>.</p>.</p>.</p>.</p>.</p>.</p>/*朋友们的超高颜值暂不开放"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
