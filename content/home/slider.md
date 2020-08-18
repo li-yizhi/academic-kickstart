@@ -44,8 +44,7 @@ height = "750px"
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "headers/玉泉图书馆.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-  style="transform:scale(0.8)
-
+  
 [[item]]
   title = "remember who you are"
   content = "you must take your place in the circle of life"
