@@ -46,5 +46,8 @@ url_poster = ""
   focal_point = ""
 +++
 
-
-{{< figure library="true" src="finish/3D玻璃热弯机ppt.jpg" title="" >}}
+设计出一种帮助快递员进行商品载运的机械装置，实现安全、快捷、省力的搬运及发放商品
+{{< figure library="true" src="finish/one block.jpg" title="" >}}
+从最初构思到方案选择到整机加工完成，历时一年，修改图纸累计达63张，电控部分调试十数次
+{{< figure library="true" src="finish/加工.jpg" title="" >}}
+获全国大学生机械创新大赛省赛二等奖，并获一等奖复评机会（5%）；
