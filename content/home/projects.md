@@ -43,10 +43,10 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   #   5 = Showcase
-  view = 2
+  view = 5
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.
