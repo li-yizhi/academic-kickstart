@@ -39,12 +39,16 @@ url_poster = ""
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Radiation_robot.png"
+  caption = "3D玻璃热弯机样机设计稿"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
 
-
+进行行业知识调研，实地考察走访，整理成报告
 {{< figure library="true" src="finish/3D玻璃热弯机ppt.jpg" title="" >}}
+内部工位流程规划，外部结构逆向工程分析及建模，绘制加工图纸，与工厂协商修改设计加工问题，成功设计并加工出一种3D玻璃钢化膜热弯加工样机
+{{< figure library="true" src="finish/Glass_bend.jpg" title="实物样机" >}}
+该样机实现同时加工15片钢化玻璃膜
+{{< figure library="true" src="finish/Glass_bend.jpg" title="实物样机" >}}
