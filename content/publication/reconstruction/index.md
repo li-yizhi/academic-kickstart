@@ -14,7 +14,7 @@ authors = ["从飞云", "**李慧敏**", "童水光"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["4"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "国家知识产权局"
@@ -25,7 +25,7 @@ abstract = "本发明公开了一种基于半峰值概率密度分布的三维�
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "finish/reconstruction.png"
+image_preview = "reconstruction.png"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -63,8 +63,9 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[finish/reconstruction.png]
+[header]
 image = ""
 caption = ""
 
 +++
+
