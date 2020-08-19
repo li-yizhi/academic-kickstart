@@ -40,12 +40,14 @@ url_poster = ""
 [image]
 image = "headers/title.png"
   # Caption (optional)
-  caption = "Radiation_robot.png"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
 
-
+叉车运行数据（温度/湿度/运行速度/位置信息/）采集盒设计及采集上传程序调试，实现叉车数据OneNET云平台实时上传监测
 {{< figure library="true" src="finish/基于STM32的叉车远程测控终端与维护系统.jpg" title="" >}}
+基于F103ZET6主控制器，通过温湿度、加速度等传感器获取叉车运行信息
+利用基于UWB的TDOA定位算法实现叉车室内环境下位置信息获取
