@@ -36,7 +36,8 @@ url_poster = ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-[Radiation_robot.png]
+[image]
+  image = "Radiation_robot.png"
   # Caption (optional)
   caption = "Radiation_robot.png"
 
