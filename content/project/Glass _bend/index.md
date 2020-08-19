@@ -51,4 +51,4 @@ url_poster = ""
 内部工位流程规划，外部结构逆向工程分析及建模，绘制加工图纸，与工厂协商修改设计加工问题，成功设计并加工出一种3D玻璃钢化膜热弯加工样机
 {{< figure library="true" src="finish/Glass_bend.jpg" title="实物样机" >}}
 该样机实现同时加工15片钢化玻璃膜
-{{< figure library="true" src="finish/Glass_bend.jpg" title="实物样机" >}}
+{{< figure library="true" src="finish/Glass_model.png" title="加工样品" >}}
