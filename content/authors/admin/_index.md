@@ -26,6 +26,7 @@ interests:
 - 高精度定位和导航
 - 移动机器人
 - 物联网&远程测控
+- 嵌入式开发
 
 education:
   courses:
