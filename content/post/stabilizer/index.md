@@ -1,5 +1,5 @@
 +++
-title = " 动手做一个稳定器 "
+title = " 用MPU6050动手做一个稳定器吧 "
 date_start = "2017-01-02"
 date_end = "2017-06-20"
 draft = false
@@ -10,7 +10,7 @@ tags = [""]
 
 
 # Project summary to display on homepage.
-summary = "3D打印DIY一个稳定器！"
+summary = "3D打印DIY一个你自己的稳定器！"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
