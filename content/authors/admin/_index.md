@@ -23,10 +23,9 @@ organizations:
 bio: 吾日三省吾身：到浙大来做什么？将来毕业后做什么样的人？今天过的开心吗？
 
 interests:
-- 高精度定位和导航
+- 结构设计优化
 - 移动机器人
 - 物联网&远程测控
-- 嵌入式开发
 
 education:
   courses:
@@ -70,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-李慧敏，浙江大学机械工程专业研二学生，研究兴趣包括高精度定位和导航，移动机器人，物联网&远程测控。在读期间参与所在课题组多项国家自然科学基金、国家重点研发计划申报及研究。
+李慧敏，浙江大学机械工程专业研二学生，研究兴趣包括结构设计优化，移动机器人，物联网&远程测控。在读期间参与所在课题组多项国家自然科学基金、国家重点研发计划申报及研究。
 
-Huimin Li, Master of mechanical engineering, Zhejiang University. Her research interests include high-precision positioning and navigation, mobile robot, Internet of things & Remote Measurement and control. During the study period, she participated in the application and research of several National Natural Science Funds and national key R & D plans of the research group.
+Huimin Li, Master of mechanical engineering, Zhejiang University. Her research interests include structural design, mobile robot, Internet of things & Remote Measurement and control. During the study period, she participated in the application and research of several National Natural Science Funds and national key R & D plans of the research group.
