@@ -48,7 +48,7 @@ url_poster = ""
 
 编辑中...
 {{< figure library="true" src="diy/1.jpg" title="" >}}
-准备MPU6050x1,MG996R伺服器x3,降压转换器x1,Arduino开发板x1,跳线若干，M3螺栓螺母若干
+
 {{< figure library="true" src="diy/2.jpg" title="" >}}
 
 {{< figure library="true" src="diy/3.jpg" title="" >}}
