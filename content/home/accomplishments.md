@@ -18,7 +18,16 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-
+[[item]]
+  organization = "浙江省科技厅"
+  organization_url = "http://kjt.zj.gov.cn/"
+  title = "浙江省重点研发计划"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-06-15"
+  date_end = ""
+  description = "基于辐射监测的公共安全科技关键技术、装备研发及应用示范 主要申报人员"  
+  
 [[item]]
   organization = "教育部高等教育司"
   organization_url = "http://gcxl.dlut.edu.cn/"
@@ -89,15 +98,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = "基于移动机器人的核电装备辐射泄漏故障源在线三维辨识诊断研究 核心成员"
   
-[[item]]
-  organization = "浙江省科技厅"
-  organization_url = "http://kjt.zj.gov.cn/"
-  title = "浙江省重点研发计划"
-  url = ""
-  certificate_url = ""
-  date_start = "2019-06-15"
-  date_end = ""
-  description = "基于辐射监测的公共安全科技关键技术、装备研发及应用示范 主要申报人员"  
+
   
 
 +++
