@@ -47,7 +47,7 @@ url_poster = ""
 +++
 
 编辑中...
-{{< figure library="true" src="video_20190518_205155.mp4" title="" >}}
+{{< video library="true" src="video_20190518_205155.mp4" title="" >}}
 
 {{< figure library="true" src="diy/2.jpg" title="" >}}
 
