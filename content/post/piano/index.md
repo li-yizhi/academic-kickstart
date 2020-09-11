@@ -47,7 +47,7 @@ url_poster = ""
 +++
 
 编辑中...
-{{< video library="true" src="video_20190518_205155.mp4" title="" >}}
+url_video = "https://github.com/li-yizhi/academic-kickstart/blob/master/static/media/diy/video_20190518_205155.mp4"
 
 {{< figure library="true" src="diy/2.jpg" title="" >}}
 
