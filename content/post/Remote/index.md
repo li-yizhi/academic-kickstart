@@ -46,6 +46,8 @@ url_poster = ""
   focal_point = ""
 +++
 
+制作过程分为三步，在第三方平台申请远程控制的帐号、密码及APIKEY，第二步要把程序写到esp8266_01中，并进行测试；第三步进行组装并实现控制
+
 编辑中...
 {{< figure library="true" src="diy/1.jpg" title="" >}}
 
