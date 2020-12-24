@@ -1,5 +1,5 @@
 +++
-title = "3D玻璃热弯机样机研发 "
+title = "手机3D玻璃热弯机样机研发 "
 date_start = "2017-01-02"
 date_end = "2017-06-20"
 draft = false
