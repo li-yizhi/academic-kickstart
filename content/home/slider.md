@@ -47,10 +47,10 @@ height = "750px"
   
 [[item]]
   title = "remember who you are"
-  content = "you must take your place in the circle of life</p>.</p>.</p>.</p>.</p>.</p>.</p>.</p>.</p>.</p>/*朋友们的超高颜值已被封印，暂不开放23333"
+  content = "you must take your place in the circle of life"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "headers/team3.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "headers/玉泉操场.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
